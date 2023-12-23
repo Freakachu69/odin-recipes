@@ -1,1 +1,1 @@
-# odin-recipes
+A basic website for recipes, created as part of the Odin Project curriculum. By the end of this project I will have demonstrated my knowledge of basic HTML (as well as basic Git).
