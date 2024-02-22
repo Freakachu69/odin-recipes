@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(7, 69, 26);
+    color: white;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
