@@ -1,10 +1,48 @@
-* {
+body {
     background-color: rgb(7, 69, 26);
     color: white;
     font-family: Georgia, serif;
     text-align: center;
 }
 
+h1 {
+    font-size: 42px;
+}
+
 li {
     text-align: left;
+}
+
+img {
+    border: 1px solid rgb(201, 255, 102);
+}
+
+p,
+ul,
+ol {
+    background-color: white;
+    color: rgb(7, 69, 26);
+    padding: 20px 40px;
+    border: 2px solid rgb(201, 255, 102);
+    width: 600px;
+    margin: auto;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.contents {
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+.contents li {
+    text-align: center;
+    list-style: none;
+    line-height: 48px;
+    font-size: 24px;
+}
+
+a {
+    color: rgb(7, 69, 26);
 }
